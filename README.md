@@ -1,2 +1,2 @@
-# projects for natural language processing
+# Projects for Natural Language Processing
 
