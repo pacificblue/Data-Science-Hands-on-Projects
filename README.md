@@ -2,9 +2,12 @@
 
 ## Reference:
 
-## Word Embedding
+Word Embedding
+
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 
-## Transformer
+Transformer
+
 https://jalammar.github.io/illustrated-transformer/
+
 https://jalammar.github.io/illustrated-bert/
