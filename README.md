@@ -1,4 +1,4 @@
-## Guided Projects
+## Data-Science-Hands-on-Projects
 
 ## Reference:
 
