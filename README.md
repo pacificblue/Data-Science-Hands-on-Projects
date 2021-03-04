@@ -1,4 +1,4 @@
-## Projects for Natural Language Processing
+## Guided Projects
 
 ## Reference:
 
