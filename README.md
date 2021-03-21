@@ -12,9 +12,9 @@ http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 
 Transformer
 
-https://jalammar.github.io/illustrated-transformer/
+https://arxiv.org/pdf/1706.03762.pdf
 
-https://jalammar.github.io/illustrated-bert/
+https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 
 https://huggingface.co/
 
