@@ -16,6 +16,8 @@ https://jalammar.github.io/illustrated-transformer/
 
 https://jalammar.github.io/illustrated-bert/
 
+https://huggingface.co/
+
 ImageAI
 
 https://imageai.readthedocs.io/en/latest/index.html
