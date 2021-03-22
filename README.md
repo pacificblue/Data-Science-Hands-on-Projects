@@ -2,6 +2,8 @@
 
 ## Frameworks:
 
+https://opennmt.net/OpenNMT-py/index.html
+
 https://huggingface.co/
 
 https://rasa.com/docs/rasa/
