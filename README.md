@@ -1,5 +1,13 @@
 ## Data-Science-Hands-on-Projects
 
+## Frameworks:
+
+https://huggingface.co/
+
+https://rasa.com/docs/rasa/
+
+https://imageai.readthedocs.io/en/latest/index.html
+
 ## Reference:
 
 Model Evaluation
@@ -16,12 +24,4 @@ https://arxiv.org/pdf/1706.03762.pdf
 
 https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 
-Frameworks
 
-https://huggingface.co/
-
-https://rasa.com/docs/rasa/
-
-ImageAI
-
-https://imageai.readthedocs.io/en/latest/index.html
