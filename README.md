@@ -2,6 +2,8 @@
 
 ## Frameworks:
 
+https://github.com/google/trax
+
 https://opennmt.net/OpenNMT-py/index.html
 
 https://huggingface.co/
