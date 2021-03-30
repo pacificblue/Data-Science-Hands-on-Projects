@@ -32,4 +32,8 @@ Unbalanced Dataset
 
 https://elitedatascience.com/imbalanced-classes
 
+Grid Search
+
+https://medium.com/ml-book/neural-networks-hyperparameter-tuning-in-tensorflow-2-0-a7b4e2b574a1
+
 
