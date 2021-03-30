@@ -28,4 +28,8 @@ https://arxiv.org/pdf/1706.03762.pdf
 
 https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 
+Unbalanced Dataset
+
+https://elitedatascience.com/imbalanced-classes
+
 
